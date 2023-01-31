@@ -1,2 +1,3 @@
 # MEET-MESSENGER-WEB-APP-WITH-CONTENT-MODERATION-
 A video chat application with content moderation is a real-time communication platform that allows users to connect with each other through video, audio and text chat. 
+MEET-MESSENGER-WEB-APP-WITH-CONTENT-MODERATION is a messaging app that is equipped with content filtering functionality. The main use of this app is to allow users to communicate with each other securely and filter out potentially harmful or inappropriate content, making the platform a safer place for communication. The content filtering feature is meant to help ensure that users can use the app with confidence, knowing that their messages and interactions will be free from offensive or inappropriate material.
